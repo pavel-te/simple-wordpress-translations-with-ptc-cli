@@ -28,29 +28,29 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/activity/ajax.php:363
 #: bp-templates/bp-nouveau/includes/activity/ajax.php:1717
 msgid "Activity deleted successfully"
-msgstr "Actividad eliminada correctamente"
+msgstr "Aktivität erfolgreich gelöscht"
 
 #: bp-activity/actions/delete.php:62
 msgid "There was an error when deleting that activity"
-msgstr "Hubo un error al eliminar esa actividad"
+msgstr "Beim Löschen dieser Aktivität ist ein Fehler aufgetreten"
 
 #: bp-activity/actions/favorite.php:42
 msgid "Activity comment post saved."
-msgstr "Comentario de actividad guardado."
+msgstr "Aktivitätskommentar gespeichert."
 
 #: bp-activity/actions/favorite.php:46
 msgid "Activity post saved."
-msgstr "Publicación de actividad guardada."
+msgstr "Aktivitätsbeitrag gespeichert."
 
 #: bp-activity/actions/feeds.php:29
 #. translators: Sitewide activity RSS title - "[Site Name] | Site Wide
 #. Activity"
 msgid "%s | Site-Wide Activity"
-msgstr "%s | Actividad de todo el sitio"
+msgstr "%s | Website-weite Aktivität"
 
 #: bp-activity/actions/feeds.php:32
 msgid "Activity feed for the entire site."
-msgstr "Feed de actividad para todo el sitio."
+msgstr "Aktivitäts-Feed für die gesamte Website."
 
 #: bp-activity/actions/feeds.php:59 bp-groups/actions/feed.php:37
 #. translators: Personal activity RSS title - "[Site Name] | [User Display
@@ -58,38 +58,38 @@ msgstr "Feed de actividad para todo el sitio."
 #. translators: Group activity RSS title - "[Site Name] | [Group Name] |
 #. Activity"
 msgid "%1$s | %2$s | Activity"
-msgstr "%1$s | %2$s | Actividad"
+msgstr "%1$s | %2$s | Aktivität"
 
 #: bp-activity/actions/feeds.php:63
 #. translators: Activity feed for [User Display Name].
 msgid "Activity feed for %s."
-msgstr "Feed de actividad para %s."
+msgstr "Aktivitäts-Feed für %s."
 
 #: bp-activity/actions/feeds.php:90
 #. translators: Connections activity RSS title - "[Site Name] | [User Display
 #. Name] | Connections Activity"
 msgid "%1$s | %2$s | Connections Activity"
-msgstr "%1$s | %2$s | Actividad de conexiones"
+msgstr "%1$s | %2$s | Verbindungsaktivität"
 
 #: bp-activity/actions/feeds.php:94
 #. translators: Activity feed for [User Display Name]'s connections.
 msgid "Activity feed for %s's connections."
-msgstr "Feed de actividad para las conexiones de %s."
+msgstr "Aktivitäts-Feed für die Verbindungen von %s."
 
 #: bp-activity/actions/feeds.php:125
 #. translators: Member groups activity RSS title - "[Site Name] | [User Display
 #. Name] | Groups Activity"
 msgid "%1$s | %2$s | Group Activity"
-msgstr "%1$s | %2$s | Actividad de grupo"
+msgstr "%1$s | %2$s | Gruppenaktivität"
 
 #: bp-activity/actions/feeds.php:130
 #. translators: Public group activity feed of which [User Display Name] is a
 #. member.
 msgid "Public group activity feed of which %s is a member."
-msgstr "Feed de actividad pública de grupos de los que %s es miembro."
+msgstr "Öffentlicher Gruppenaktivitäts-Feed, in dem %s Mitglied ist."
 
 #: bp-activity/actions/feeds.php:165
 #. translators: User mentions activity RSS title - "[Site Name] | [User Display
 #. Name] | Mentions"
 msgid "%1$s | %2$s | Mentions"
-msgstr "%1$s | %2$s | Menciones"
+msgstr "%1$s | %2$s | Erwähnungen"
