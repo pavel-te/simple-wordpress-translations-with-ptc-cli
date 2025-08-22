@@ -1,0 +1,11 @@
+source_locale: en
+files:
+  - file: languages/examplewp.pot
+    output: languages/examplewp-{{lang}}.po
+    additional_translation_files:
+      - type: mo
+        path: languages/examplewp-{{lang}}.mo
+      - type: wp
+        path: languages/examplewp-{{lang}}.json
+      - type: php
+        path: languages/examplewp-{{lang}}.l10n.php
