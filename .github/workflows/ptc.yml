@@ -1,9 +1,5 @@
 name: Process Translation Files
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'config/locales/**/*.yml'
   workflow_dispatch: # Manual trigger
 
 jobs:
@@ -28,8 +24,7 @@ jobs:
         run: |
           ./ptc-cli.sh \
             --config-file .ptc/config.yml \
-            --api-token ${{ secrets.PTC_API_TOKEN }} \
-            --verbose
+            --api-token ${{ secrets.PTC_API_TOKEN }}
       
       - name: Clean up temporary files
         run: |
